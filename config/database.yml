@@ -14,8 +14,8 @@
 development:
   adapter: mysql
   database: cegame_development
-  username: username
-  password: password
+  username: root
+  password: 
   host: localhost
   encoding: utf8
   
@@ -25,8 +25,8 @@ development:
 test:
   adapter: mysql
   database: cegame_test
-  username: username
-  password: password
+  username: root
+  password: 
   host: localhost
   encoding: utf8
   
